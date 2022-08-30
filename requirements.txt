@@ -1,0 +1,4 @@
+pandas
+psycopg2
+python-dotenv==0.11.0
+SQLAlchemy
